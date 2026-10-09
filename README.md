@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Sachin Yadav 👋
 
-<!--
-**Sacchu-1206/Sacchu-1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | MERN Stack
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate focused on building responsive, user-friendly web applications. I enjoy developing practical projects, learning new technologies, and improving my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Focus:** Full Stack Web Development
+- 🌱 **Currently learning:** MERN Stack and Data Structures & Algorithms
+- 🚀 **Working on:** HireHub — a full-stack job portal
+- 🤝 **Open to:** Entry-level developer opportunities and collaboration
+
+---
+
+## 🛠️ Technical Skills
+
+**Frontend**
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, React Router
+- Redux Toolkit, Bootstrap
+
+**Backend**
+- Node.js, Express.js
+- REST APIs, JWT Authentication
+
+**Database**
+- MongoDB, Mongoose
+
+**Tools**
+- Git, GitHub, VS Code, Postman
+- Vite, npm, Vercel
+
+---
+
+## 🚀 Featured Project
+
+### HireHub — Full-Stack Job Portal
+
+A job portal designed to connect candidates and recruiters, with role-based access for administrators.
+
+**Key Features**
+- User authentication and role-based authorization
+- Job creation, browsing, searching, and filtering
+- Job applications and application status management
+- Candidate profiles and saved jobs
+- Recruiter dashboards and applicant management
+- Admin dashboard for managing users, jobs, and applications
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT
+
+🔗 [View HireHub on GitHub](https://github.com/Sacchu-1206/HireHub)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sachin-yadav-549931284/)
+- 🐙 [GitHub](https://github.com/Sacchu-1206)
+
+---
+
+⭐ Thanks for visiting my profile!
